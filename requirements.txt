@@ -1,0 +1,7 @@
+tensorflow-macos
+tensorflow-metal
+opencv-python-headless
+pytesseract
+Pillow
+scipy
+matplotlib
